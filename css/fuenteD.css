@@ -1,0 +1,19 @@
+body {
+    justify-content: center;
+    height: 100vh;
+    display: flex;
+    background-color: blue;
+    align-items: center;
+}
+
+
+h1 {
+    font-family: waltograph42;
+    font-size: 9em;
+    color: aliceblue;
+}
+
+@font-face {
+    font-family: "waltograph42";
+    src: url(../fonts/waltograph42.otf);
+}
