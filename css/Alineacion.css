@@ -1,41 +1,50 @@
 .box {
     display: inline-block;
+    letter-spacing: 0.3em;
+    word-spacing: .7em;
+    line-height: .7em;
+    text-align: center;
     width: 250px;
     height: 250px;
-    background-color: blue;
+    text-align: justify;
+    color: white;
+    margin-top: 2em;
 }
 .box-1 {
-    margin-right: 50px;
-    border-right: 5px;
-    padding: 25px;
-    background-color: rgb(146, 146, 19);
-    margin-bottom: 20px;
+    font-size: 1.4em;
+    background-color: rgb(27, 69, 67);
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 2em;
+    border: 3px solid darkcyan;
 } 
 .box-2 {
-    margin-right: 50px;
-    border-right: 5px;
-    padding: 25px;
-    background-color: rgb(26, 117, 8);
-    margin-bottom: 20px;
+    font-size: 1.4em;
+    background-color: rgb(21, 80, 52);
+    margin-right: 5px;
+    padding: 2em;
+    border: 3px dashed black;
 } 
-.box-3 {
-    margin-right: 50px;
-    border-right: 5px;
-    padding: 25px;
-    background-color: rgb(6, 161, 110);
-    margin-bottom: 20px;
+
+.box-3 { 
+    font-size: 1.4em;
+    background-color: rgb(46, 44, 93);
+    margin-right: 5px;
+    padding: 2em;
+    border: 3px dotted rgb(15, 15, 15);
 } 
+
 .box-4 {
-    margin-right: 50px;
-    border-right: 5px;
-    padding: 25px;
-    background-color: rgb(8, 58, 124);
-    margin-bottom: 20px;
+    font-size: 1.4em;
+    background-color: rgb(32, 35, 52);
+    margin-right: 5px;
+    padding: 2em;
+    border: 3px double rgb(240, 234, 234);
 } 
 .box-5 {
-    margin-right: 50px;
-    border-right: 5px;
-    padding: 25px;
-    background-color: rgb(133, 6, 6);
-    margin-bottom: 20px;
+    font-size: 1.4em;
+    background-color: rgb(125, 55, 171);
+    margin-right: 5px;
+    padding: 2em;
+    border: 3px outset rgb(15, 15, 15);
 } 
