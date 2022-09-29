@@ -1,0 +1,57 @@
+*{
+    padding:0%;
+    margin: 0%;
+}
+
+.Box{
+    height: 260px;
+    width: 260px;
+    display: inline-block;
+    margin: 0px 23px 0px 23px;
+    border-radius: 8px;
+}
+.contenedor{
+    margin-bottom: 40px;
+}
+.universal{
+    text-align: center;
+    margin-top: 90px;
+}
+.box1{
+    background-color: rgb(87, 80, 80);
+    box-shadow: 18px 18px 8px rgb(24, 22, 22);
+}
+.box2{
+    background-color: rgb(11, 245, 245);
+    box-shadow: 18px 18px 18px rgb(4, 83, 83);
+}
+.box3{
+    background-color: rgb(255, 183, 0);
+    box-shadow: 18px 18px 18px rgb(122, 91, 10);
+}
+.box4{
+    background-color: rgb(250, 16, 16);
+    box-shadow: 18px 18px 18px rgb(141, 14, 18);
+}
+.box5{
+    background-color: rgb(106, 0, 236);
+    box-shadow: 18px 18px 18px rgb(57, 13, 110);
+}
+.box6{
+    background-color: rgb(8, 161, 243);
+    box-shadow: 18px 18px 18px rgb(17, 73, 105);
+}
+h2{
+    color: white;
+    text-align: center;
+    padding-top: 5em;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+p{
+    text-align: left;
+    font-weight:bolder;
+}
+
