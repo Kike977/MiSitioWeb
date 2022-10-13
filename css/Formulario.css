@@ -1,0 +1,14 @@
+label {
+    display: block;
+}
+input[type="text"] {
+    margin-bottom: 20px;
+    padding: 7px;
+    font-size: 1.1em;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid rgb(64,64,64.8);
+}
+input[type="text"]:focus {
+    outline: none;
+}
